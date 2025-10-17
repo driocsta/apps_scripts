@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Credentials
+credentials.json
+token.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
